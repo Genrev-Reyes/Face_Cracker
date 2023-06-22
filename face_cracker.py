@@ -37,7 +37,7 @@ blue="\033[1;34m"
 cyan="\033[1;36m"
 white="\033[1;37m"
 File = ".up"
-
+# Scripts
 def script():
     system("python3 .MAIN.py")
 
