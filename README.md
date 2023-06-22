@@ -34,7 +34,7 @@ apt install python
 
 apt installl git
 
-git clone https://github.com/Genrev-Reyes/Face_Crack.git
+git clone https://github.com/Genrev-Reyes/Face_Cracker
 
 cd Lethal-Brute
 
