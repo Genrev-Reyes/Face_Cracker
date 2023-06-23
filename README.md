@@ -19,7 +19,7 @@
 
             Method: Facebook BruteForce
 
-            Author: GenrevReye [Philippines]
+            Author: GenrevReyes [Philippines]
 
             Group: LethalCommunity
 
@@ -36,7 +36,7 @@ apt installl git
 
 git clone https://github.com/Genrev-Reyes/Face_Cracker
 
-cd Lethal-Brute
+cd face_cracker.py
 
 pip3 install -r requirements.txt
 
@@ -44,5 +44,7 @@ python3 face_crack.py
 
 
 [Happy Hacking]
+
+
 ```
 
