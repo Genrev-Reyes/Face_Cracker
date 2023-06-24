@@ -96,8 +96,9 @@ about=f"""
 
 {yellow}[{red}-{yellow} Group: LethalCommunity
 
-{yellow}[{red}-{yellow} Tool_name: Lethal-Brute
+{yellow}[{red}-{yellow} Tool_name: Face_Cracker
 
+{yellow}[{red}-{yellow} Method: Facebook Bruteforce 
 
 """
 
